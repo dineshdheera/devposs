@@ -65,3 +65,51 @@ git add .
 git commit -m"second commit" .
 git status
 git log
+ll
+git branch
+git push -u origin master
+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
+git push -u origin branch1
+hit branch
+git branch
+git checkout branch1
+git status
+git checkout master
+ll
+git status
+git add file5
+git commit -m "fiveth commit"
+git commit -m "fiveth commit" file5
+git add file5
+git commit -m "fiveth commit" file5
+git branch
+git branch branch2
+git branch
+git checkout branch2
+git branch
+touch file6
+ll
+git checkout master
+ll
+git status
+git add file6
+git commit -m " six commit" file6
+git branch
+git push u origin master
+git push -u origin master
+git checkout branch2
+git branch
+touch file7
+touch file7 
+git add .
+git commit -m " branch commit .
+git commit -m " branch commit" .
+git branch
+git branch
+sudo -i
+i
+git log
+ediy
+edit
+ --amend --reset-author
+exit
